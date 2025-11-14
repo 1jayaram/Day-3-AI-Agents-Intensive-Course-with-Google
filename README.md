@@ -1,3 +1,5 @@
+#Day 3 Context Engineering: Sessions & Memory
+
 During the 5-Day AI Agents Intensive Course with Google, I explored the Context Engineering Sessions Memory by completing codelabs on Kaggle.
 
 Day 3a - Agent Sessions
